@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### Installation 
 
-- Clone the repo or download zip file
+- Clone the repo file https://github.com/Maha927/TO-DO-Service.git or download zip 
 - Install dependencies:
 ```
 - pip install -r requirements.txt
