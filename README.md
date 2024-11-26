@@ -44,7 +44,7 @@ flask db upgrade
 python app.py
 ```
 
-> The backend should now be accessible at http://localhost:8000/.
+> The backend should now be accessible at http://localhost:5000/.
 
 ### Usage
 
